@@ -9,7 +9,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "and user not in [777000, 1087968824]"
-          replace: "and user not in [777000, 1087968824, 1356469075]"
+          replace: "and user not in [777000, 1087968824, 5215836363]"
       - name: Pull All Updates
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
