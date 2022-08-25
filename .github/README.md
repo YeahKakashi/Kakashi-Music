@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://graph.org/file/7bd111132fce009e4605e.jpg">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TigerNetworkChat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/FallenXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -57,7 +57,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/TigerNetwork/MissRich) </b>
+- <b>[ᴛ𝔥𝑒 ƒ𝓪ᵗʜΣг](https://github.com/AnonymousR1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/TigerNetwork/MissRich) </b>
 - <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
 - <b>[ǫᴜᴇᴇɴ ᴀʀᴢᴏᴏ](https://github.com/QueenArzoo)  ➻  [ʟᴀʏʟᴀ ʀᴏʙᴏᴛ](https://github.com/QueenArzoo/LaylaRobot) </b>
 - <b>[ᴀɴɪᴍᴇ ᴋᴀɪᴢᴏᴋᴜ](https://github.com/AnimeKaizoku)  ➻  [sᴀɪᴛᴀᴍᴀ ʀᴏʙᴏᴛ](https://github.com/AnimeKaizoku/SaitamaRobot) </b>
