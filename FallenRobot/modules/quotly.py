@@ -27,8 +27,8 @@ from traceback import format_exc
 from pyrogram import filters
 from pyrogram.types import Message
 
-from wbb import SUDOERS, USERBOT_PREFIX, app, app2, arq
-from wbb.core.decorators.errors import capture_err
+from FallenRobot import SUDOERS, USERBOT_PREFIX, app, app2, arq
+from FallenRobot.core.decorators.errors import capture_err
 
 __MODULE__ = "Quotly"
 __HELP__ = """
