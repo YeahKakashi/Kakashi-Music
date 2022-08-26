@@ -56,5 +56,6 @@ aiofiles
 motor
 python-arq
 telegram
+cloudscraper
 gpytranslate
 yt_dlp
