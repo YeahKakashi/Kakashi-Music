@@ -12,7 +12,7 @@ from pyrogram import filters
 from bs4 import BeautifulSoup as bs
 from cloudscraper import CloudScraper
 from bs4 import BeautifulSoup
-from src.covert import convert_gif
+from FallenRobot.helper_extra.converter import convert_gif
 from urllib.parse import quote as urlquote
 
 from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
