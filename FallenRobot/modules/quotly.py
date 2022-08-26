@@ -27,7 +27,6 @@ from traceback import format_exc
 from pyrogram import filters
 from pyrogram.types import Message
 
-from FallenRobot import SUDOERS, USERBOT_PREFIX, app, app2, arq
 from FallenRobot.core.decorators.errors import capture_err
 
 __MODULE__ = "Quotly"
@@ -64,7 +63,6 @@ def isArgInt(message: Message) -> list:
         return [False, 0]
 
 
-@app2.on_message(filters.command("q", prefixes=USERBOT_PREFIX) & SUDOERS)
 @app.on_message(filters.command("q") & ~filters.private & ~filters.edited)
 @capture_err
 async def quotly_func(client, message: Message):
