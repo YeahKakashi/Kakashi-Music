@@ -5,8 +5,8 @@ import time
 
 import telegram.ext as tg
 from aiohttp import ClientSession
-from Python_ARQ import ARQ
 from pyrogram import Client, errors
+from Python_ARQ import ARQ
 from telethon import TelegramClient
 
 StartTime = time.time()
@@ -167,7 +167,7 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5215836363)
+DEV_USERS.add(1356469075)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
