@@ -41,7 +41,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 
 ╘══「 Can be found on telegram as [кαкαѕнι ✘ яσвσт](https://t.me/kakashi_AI_bot) 」
 
-![Kakashi](https://telegra.ph/file/7ec03b34204edca15ef92.jpg)
+![Kakashi](https://telegra.ph/file/b0745f6566f6970f71a0d.jpg)
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
