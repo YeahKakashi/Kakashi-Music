@@ -50,9 +50,15 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 
 ━━━━━━━━━━━━━━━━━━━━
 
+## ╒═══「 Creator Info/Credits 」
+
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    
++  [YeahKakashi] () : OWNER | DEV
+
++  [Kakashi](https://github.com/YeahKakashi) : BASE
 </h3>
+
 
 
  
