@@ -28,6 +28,21 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
   <img src="https://telegra.ph/file/bdc72d409578d26ec907e.jpg">
 </p>
 
+##  ╒═══「 Status 」
+
++ [x] Maintained
++ [x] Support Group Included
++ [x] Free
++ [x] OpenSourced
++ [x] Working Instance Available
++ [x] Clean Code
++ [x] Heroku Deploy
++ [x] Docker/Local Machine
+
+╘══「 Can be found on telegram as [кαкαѕнι ✘ яσвσт](https://t.me/kakashi_AI_bot) 」
+
+![Kakashi](https://telegra.ph/file/7ec03b34204edca15ef92.jpg)
+
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
