@@ -53,16 +53,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 ## ╒═══「 Creator Info/Credits 」
 
 <h3 align="center">
-    
-
 
 +  [Kakashi](https://github.com/YeahKakashi) : OWNER | DEV
 +  [Tiger Network](https://github.com/TigerNetwork) : BASE
 </h3>
-
-
-
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/TigerNetwork/MissRich/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴍɪss ✘ ʀɪᴄʜ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-
 ━━━━━━━━━━━━━━━━━━━━
