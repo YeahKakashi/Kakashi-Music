@@ -54,9 +54,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍɪss ✘ ʀɪᴄ
 
 <h3 align="center">
     
-+  [YeahKakashi] () : OWNER | DEV
 
-+  [Kakashi](https://github.com/YeahKakashi) : BASE
+
++  [Kakashi](https://github.com/YeahKakashi) : OWNER | DEV
++  [Tiger Network](https://github.com/TigerNetwork) : BASE
 </h3>
 
 
